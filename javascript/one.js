@@ -1,0 +1,3 @@
+function dynamicTable(){
+    document.crea
+}

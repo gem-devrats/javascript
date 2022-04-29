@@ -3,9 +3,9 @@ let userNameTrue, emailTrue, numberTrue;
 let counter = 1;
 
 function one() {
-    userName = false
+    userNameTrue = false
     emailTrue = false
-    number = false
+    numberTrue = false
     userName = document.getElementById("name").value;
     email = document.getElementById("email").value;
     number = document.getElementById("number").value;
